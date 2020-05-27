@@ -1,3 +1,4 @@
 # practice
 * php
 * java
+* javascript
